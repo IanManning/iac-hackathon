@@ -6,7 +6,7 @@
       "type": "string",
       "defaultValue": "adminuser",
       "metadata": {
-        "description": "Username for the Virtual Machine."
+        "description": "Username hello for the Virtual Machine."
       }
     },
     "adminPassword": {
